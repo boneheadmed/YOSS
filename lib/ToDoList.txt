@@ -1,0 +1,26 @@
+* Remove trigger entity
+* Fix changeD right screen
+* Study collision/fix bullets
+
+* Set up multiple enemies
+* Add enemy fire
+* Add player collision with fire
+* correct explosion position
+* Add player explosion, then delay for time and regenrate. Likely will need a "ghost phase, so that player can reposition". May want to use different states as in jumpnrun example.
+* Limit player bullets to 3 then pause and allow more bullets
+* Director: return false if append didn't work
+- Consider removing lives from playerSHip
+* Reduce lives after player dies. Check for end of game.
+* Add player ships remaining
+* Add title screen
+* Add scoring
+* Need to ensure enemies kill player when player is struck
+* Base ship needs multiple explosions and timer to delay level complete until after it is completely destroyed.
+* Add player rank
+* Make levels loop after completing. 
+* Add transition "scenes" between levels with reference to player rank.
+* Create 5 different levels
+- Repeat 5 levels with increasing difficulty
+- Maybe add sound
+- Finito
+

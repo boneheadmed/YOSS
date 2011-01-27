@@ -1,0 +1,4 @@
+.*.sw*
+*~
+lib/impact
+lib/weltmeister
